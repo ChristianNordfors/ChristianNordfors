@@ -8,11 +8,11 @@
 - React
 - Node
 - Redux
--✅ HTML
+- HTML
 - CSS
 - Bootstrap
 
-### Contactame por [LinkedIn](https://www.linkedin.com/in/christian-nordfors-dev/)! 
+### 📫 Contactame por <a href=”https://www.linkedin.com/in/andres-villegas-79867ab7/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 <!--
 **ChristianNordfors/ChristianNordfors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
