@@ -21,7 +21,7 @@
 <br>
 
 ## 📌 Recipe App
-### Podés ver las recetas de otros y crear las tuyas
+### ¡Podés ver las recetas de otros y también crear la tuya!
 - Paginación
 - Filtrado y ordenamiento
 - Búsqueda de recetas
