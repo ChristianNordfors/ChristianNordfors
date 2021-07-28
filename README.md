@@ -19,7 +19,9 @@
 -  <b>Git</b>
 
 <br>
+
 ---
+
 <br>
 
 
@@ -34,7 +36,9 @@
 [Ver el respositorio](https://github.com/ChristianNordfors/Recipes-React-Node)
 
 <br>
+
 ---
+
 <br>
 
 ### 📫 Contactame en:
@@ -42,5 +46,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-christiannordfors@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:christiannordfors@gmail.com)](mailto:christiannordfors@gmail.com)
 
 <br>
+
 ---
+
 <br>
