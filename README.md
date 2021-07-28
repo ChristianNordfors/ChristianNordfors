@@ -4,6 +4,7 @@
  💻 Full Stack Developer 💻
 </h1>
 
+<br>
 
 ## 🔨 Algunas tecnologías que utilizo 
 - #### React
@@ -13,6 +14,8 @@
 - #### CSS
 - #### Bootstrap
 - #### Git
+
+<br>
 
 ### 📫 Contactame en  [![image](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)](https://www.linkedin.com/in/christian-nordfors-dev/)
 
