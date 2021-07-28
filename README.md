@@ -18,9 +18,9 @@
 -  <b>Sequelize</b>
 -  <b>Git</b>
 
-<br>
-
 ---
+
+<br>
 
 ## 📌 Recipe App
 ### ¡Podés ver las recetas de otros y también crear la tuya!
@@ -32,6 +32,7 @@
 
 [Ver el respositorio](https://github.com/ChristianNordfors/Recipes-React-Node)
 
+---
 <br>
 
 ### 📫 Contactame en:
