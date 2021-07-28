@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![javascript](https://user-images.githubusercontent.com/53587594/127256318-63f13bc4-c2f0-448e-b18e-6d343441fab8.jpg)
+
+
 <!--
 **ChristianNordfors/ChristianNordfors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
