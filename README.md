@@ -39,4 +39,4 @@
 [![image](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)](https://www.linkedin.com/in/christian-nordfors-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-christiannordfors@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:christiannordfors@gmail.com)](mailto:christiannordfors@gmail.com)
 
-
+---
