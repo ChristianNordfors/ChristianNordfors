@@ -7,13 +7,13 @@
 <br>
 
 ## 🔨 Algunas tecnologías que utilizo 
-- #### React
-- #### Node
-- #### Redux
-- #### HTML
-- #### CSS
-- #### Bootstrap
-- #### Git
+-  <b>React</b>
+-  <b>Node</b>
+-  <b>Redux</b>
+-  <b>HTML</b>
+-  <b>CSS</b>
+-  <b>Bootstrap</b>
+-  <b>Git</b>
 
 <br>
 
