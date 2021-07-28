@@ -9,10 +9,12 @@
 ## ⚡ Algunas tecnologías que utilizo 
 -  <b>React</b>
 -  <b>Node</b>
+-  <b>Express</b>
 -  <b>Redux</b>
 -  <b>HTML</b>
 -  <b>CSS</b>
 -  <b>Bootstrap</b>
+-  <b>PostgreSQL</b>
 -  <b>Git</b>
 
 <br>
