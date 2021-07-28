@@ -22,6 +22,9 @@
 
 ## 📌 Recipe App
 ### Podés ver las recetas de otros y crear las tuyas
+- Paginación
+- Filtrado y ordenamiento
+- Búsqueda de recetas
 
 <img src="https://user-images.githubusercontent.com/53587594/127355191-0429a024-4121-4fcc-b4da-40d67770767e.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/53587594/127354220-d26a1694-3d2b-4058-bf17-8366c4c7a4f9.png" width=50% height=50%>
 
