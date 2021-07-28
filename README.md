@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-![javascript](https://user-images.githubusercontent.com/53587594/127256318-63f13bc4-c2f0-448e-b18e-6d343441fab8.jpg)
+![prof-pic](https://user-images.githubusercontent.com/53587594/127256510-0b698460-da2c-4123-a3a5-743293b8cc8e.png)
 
 
 <!--
