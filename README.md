@@ -15,6 +15,7 @@
 -  <b>CSS</b>
 -  <b>Bootstrap</b>
 -  <b>PostgreSQL</b>
+-  <b>Sequelize</b>
 -  <b>Git</b>
 
 <br>
