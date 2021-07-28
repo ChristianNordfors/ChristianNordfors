@@ -4,7 +4,7 @@
   Full Stack Developer
 </h1>
 
-## Algunas tecnologías que utilizo 🔭
+## Algunas tecnologías que utilizo 💻
 - React
 - Node
 - Redux
