@@ -7,12 +7,12 @@
 
 ## 🔨 Algunas tecnologías que utilizo 
 - ##### React
-- Node
-- Redux
-- HTML
-- CSS
-- Bootstrap
-- Git
+- ##### Node
+- ##### Redux
+- ##### HTML
+- ##### CSS
+- ##### Bootstrap
+- ##### Git
 
 ### 📫 Contactame en  [![image](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)](https://www.linkedin.com/in/christian-nordfors-dev/)
 
