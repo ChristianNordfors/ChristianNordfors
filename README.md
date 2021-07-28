@@ -8,9 +8,9 @@
 - React
 - Node
 - Redux
-✅ HTML
-✅ CSS
-✅ Bootstrap
+-✅ HTML
+- CSS
+- Bootstrap
 
 ### Contactame por [LinkedIn](https://www.linkedin.com/in/christian-nordfors-dev/)! 
 
