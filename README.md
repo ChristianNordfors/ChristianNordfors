@@ -12,7 +12,7 @@
 - CSS
 - Bootstrap
 
-### 📫 Contactame por (https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)
+### 📫 Contactame por ![image](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)
 
 <!--
 **ChristianNordfors/ChristianNordfors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
