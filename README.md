@@ -20,7 +20,7 @@
 
 <br>
 
-<div></div>
+---
 
 ## 📌 Recipe App
 ### ¡Podés ver las recetas de otros y también crear la tuya!
