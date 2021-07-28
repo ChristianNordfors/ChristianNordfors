@@ -6,7 +6,7 @@
 
 <br>
 
-## 🔨 Algunas tecnologías que utilizo 
+## ⚡ Algunas tecnologías que utilizo 
 -  <b>React</b>
 -  <b>Node</b>
 -  <b>Redux</b>
