@@ -4,7 +4,7 @@
   Full Stack Developer
 </h1>
 
-## Algunas tecnologías que utilizo 💻
+## 💻 Algunas tecnologías que utilizo 
 - React
 - Node
 - Redux
@@ -12,7 +12,7 @@
 - CSS
 - Bootstrap
 
-### 📫 Contactame por <a href=”https://www.linkedin.com/in/christian-nordfors-dev/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+### 📫 Contactame por <a href=”https://www.linkedin.com/in/christian-nordfors-dev/">(https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 <!--
 **ChristianNordfors/ChristianNordfors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
