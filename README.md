@@ -23,7 +23,7 @@
 ## 📌 Recipe App
 ### Podés ver las recetas de otros y crear las tuyas
 
-<img src="https://user-images.githubusercontent.com/53587594/127353364-e41cc117-8090-4431-b74b-508e4703b179.png" width=49% height=50%><img src="https://user-images.githubusercontent.com/53587594/127354220-d26a1694-3d2b-4058-bf17-8366c4c7a4f9.png" width=49% height=50%>
+<img src="https://user-images.githubusercontent.com/53587594/127353364-e41cc117-8090-4431-b74b-508e4703b179.png" width=50% height=55%><img src="https://user-images.githubusercontent.com/53587594/127354220-d26a1694-3d2b-4058-bf17-8366c4c7a4f9.png" width=50% height=50%>
 
 
 <br>
