@@ -6,7 +6,7 @@
 
 
 ## 🔨 Algunas tecnologías que utilizo 
-- React
+- ##### React
 - Node
 - Redux
 - HTML
