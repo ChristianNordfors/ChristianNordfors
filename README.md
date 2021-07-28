@@ -20,8 +20,8 @@
 
 <br>
 
-![recipe-landing](https://user-images.githubusercontent.com/53587594/127353364-e41cc117-8090-4431-b74b-508e4703b179.png | width=100)
 
+<img src="https://user-images.githubusercontent.com/53587594/127353364-e41cc117-8090-4431-b74b-508e4703b179.png" width=50% height=50%>
 
 
 <br>
