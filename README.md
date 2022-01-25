@@ -16,6 +16,8 @@
 -  <b>Bootstrap</b>
 -  <b>PostgreSQL</b>
 -  <b>Sequelize</b>
+-  <b>MongoDB</b>
+-  <b>Mongoose</b>
 -  <b>Git</b>
 
 <br>
